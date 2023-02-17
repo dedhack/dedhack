@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [Project-Zombie-Mario](https://github.com/dedhack/Project-Zombie-Mario)
 
-- 🌱 I’m currently learning **HTML CSS Javascript and React**
+- 🌱 I’m currently learning **HTML CSS Javascript React Express MongoDB Python PostgreSQL**
 
 - 👨‍💻 All of my projects are available at [https://github.com/dedhack](https://github.com/dedhack)
 
