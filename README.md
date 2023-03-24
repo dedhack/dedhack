@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Izhar</h1>
 <h3 align="center">New to the world of software development</h3>
 
-- 🔭 I’m currently working on [drive-and-track](https://github.com/dedhack/drive-and-track), a vehicle management app!
+- 🔭 I’ve just completed [drive-and-track](https://github.com/dedhack/drive-and-track), a vehicle management app!
 
 - 🌱 I’m currently learning **HTML CSS Javascript React Express MongoDB Python PostgreSQL**
 
