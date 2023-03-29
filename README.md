@@ -3,7 +3,7 @@
 
 - 🔭 I’ve just completed [drive-and-track](https://github.com/dedhack/drive-and-track), a vehicle management app!
 
-- 🌱 I’m currently learning **HTML CSS Javascript React Express MongoDB Python PostgreSQL**
+- 🌱 I’m currently learning **~~HTML CSS Javascript React Express MongoDB Python PostgreSQL~~ Java SpringBoot MySQL**
 
 - 👨‍💻 All of my projects are available at [https://github.com/dedhack](https://github.com/dedhack)
 - Project-Mario-Zombie: This is 2D platform game based on Vanilla JS and Canvas. It was an interesting project and a start to my coding journey. I've learnt interesting things here, such as game physics like collision blocks.
